@@ -16,7 +16,6 @@ const rootReducers = combineReducers ({
             description: 'Consulta médicas na terça depois do almoço',
             done: false
         }
-    ]
-    })
+    ]})
 })
 export default rootReducers;
